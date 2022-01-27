@@ -7,6 +7,6 @@ The code will be posted in this repository, but I will also post the links to vi
 
 my "sketches":
 
-https://editor.p5js.org/wildyarrow0/full/F1XClJg25
+rectPulse: https://editor.p5js.org/wildyarrow0/full/F1XClJg25
 
-https://editor.p5js.org/wildyarrow0/full/1OnAWVwzU
+darkForest: https://editor.p5js.org/wildyarrow0/full/1OnAWVwzU
