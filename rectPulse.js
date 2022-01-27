@@ -1,5 +1,4 @@
-//tkomforty AKA wildYarrow code for generative art peice for minting on FXHASH
-//01/26/22
+//tkomforty, 2022
 
 let min = 3;
 let rects = [];
