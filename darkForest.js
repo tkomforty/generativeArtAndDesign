@@ -49,7 +49,7 @@ function draw() {
   //  fxpreview()
   }
   //fxpreview();
-}
+
 
 //creation of tree at row j, column i
 function createTree(i, j) {
